@@ -11,7 +11,7 @@ This project leverages a **pretrained DenseNet121 architecture** for classifying
 - **Split:**
   - **Training:** 5,469 images
   - **Validation:** 964 images
-
+- **Source:** AIDER Dataset — [Original Paper Link](https://ieeexplore.ieee.org/abstract/document/9050881)
 ---
 
 ## Training Configuration
